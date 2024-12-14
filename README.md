@@ -1,1 +1,1 @@
-# License_plate_detection_with_Yolov10
+# Human-detection-with-Yolov10
